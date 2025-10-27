@@ -16,6 +16,7 @@ facções
 FormaçãoDaRoça
 globolixo
 havan
+influencer
 janja
 janones
 Jojo Todynho
